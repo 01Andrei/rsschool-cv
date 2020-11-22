@@ -17,7 +17,7 @@ By retraining program I have learneded the basic skills in the following areas:
 - HTML;
 - CSS;
 - JS.
-  I also learned how to work in the version control system Git, in the code editor VS Code.
+I also learned how to work in the version control system Git, in the code editor VS Code.
 
 ## Experience
 
