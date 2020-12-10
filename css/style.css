@@ -1,0 +1,13 @@
+body {
+  max-width: 1024px;
+  min-width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+.wrap_center {
+  text-align: center;
+}
+.wrap_left {
+  text-align: left;
+}
